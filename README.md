@@ -31,15 +31,15 @@ To ensure reproducibility and track progress, Git was used for version control. 
 
 <p align="center">
 <b>To create the csv file (can change kml file to any to any of those in the materials folder, and name/location of output csv file): </b><br/>
-<img src="https://www.flickr.com/photos/203696569@N08/54837780044/in/dateposted-friend/" height="80%" width="80%"/>
+<img src="https://live.staticflickr.com/65535/54837780044_c07450bf0e.jpg" height="80%" width="80%"/>
 <br />
 <br />
 <b>Create storm plots (make sure name of csv file created before is the same, and can change name/location of storm plot image)</b>: <br/>
-<img src="https://www.flickr.com/photos/203696569@N08/54837804293/in/dateposted-friend/" height="80%" width="80%"/>
+<img src="https://live.staticflickr.com/65535/54837804293_7373b79627.jpg" height="80%" width="80%"/>
 <br />
 <br />
 <b>Example storm plot image for a012020.kml file: <br/>
-<img src="https://www.flickr.com/photos/203696569@N08/54837560001/in/dateposted-friend/" height="80%" width="80%"/>
+<img src="https://live.staticflickr.com/65535/54837560001_1bcc43b3d1.jpg" height="80%" width="80%"/>
 <br />
 <br />
 
