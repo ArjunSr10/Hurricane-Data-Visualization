@@ -1,48 +1,47 @@
 <h1>Hurricane Data Visualization</h1>
 
 <h2>Description</h2>
-Developed a full-stack financial dashboard enabling users to securely register, log in, and monitor real-time stock data.
-
-Authentication: Built a secure user authentication system with registration and login features, leveraging JWT and PostgreSQL for safe credential storage.
-
-Dashboard: Designed and implemented interactive dashboard components, enhancing user experience through intuitive navigation and responsive UI.
-
-Real-Time Watchlist: Integrated the Yahoo Finance API to power a live watchlist feature, allowing users to track selected companies dynamically.
-
-Database Design: Created efficient PostgreSQL models and optimized queries to manage user profiles, watchlists, and financial data seamlessly.
+The aim of this project was to develop a Bash-based data extraction and visualization pipeline for storm reports contained in .kml files. The primary goal was to automate the creation of a neatly formatted CSV file containing key information from each storm report, including: <br/><br/>
+- <b>UTC timestamp of the report</b><br/>
+- <b>Geographic location (latitude and longitude)</b><br/>
+- <b>Minimum sea level pressure</b><br/>
+- <b>Maximum intensity</b><br/>
+<br/>
+The CSV output provides a structured format suitable for downstream analysis and visualization. Using this CSV, storm locations were plotted on a world map, providing a visual representation of each storm’s path and intensity.
+<br />
+<br/>
+To ensure reproducibility and track progress, Git was used for version control. Regular commits allowed for continuous saving of both the Bash scripts and the project documentation, making it easy to revert to earlier versions if necessary.
 <br />
 
 
 <h2>🧠 Languages</h2>
 
-- <b>Python - for backend development (Django)</b>
-- <b>JavaScript - for frontend logic and interactivity (React)</b>
-- <b>CSS - for structuring and styling the web interface</b>
-- <b>SQL - for managing and querying the PostgreSQL database</b>
+- <b>Bash – for scripting the data extraction and processing pipeline</b>
+- <b>Gnuplot script (.gpi) – for visualizing storm locations on a map</b>
+- <b>Python – for additional plotting, e.g., plotting pressure trends</b>
 
 <h2>🛠️ Utilities & Tools</h2>
 
-- <b>PostgreSQL — relational database for user and financial data</b>
-- <b>Git & GitHub — for version control and remote collaboration</b>
-- <b>Fetch API / Async-Await — for making asynchronous HTTP requests in React</b>
-- <b>RESTful API architecture — for communication between backend and frontend</b> 
+- <b>Git – version control for tracking changes in scripts and documentation</b>
+- <b>grep – pattern searching in text files</b>
+- <b>sed – text substitution and formatting</b>
+- <b>awk – text processing and field manipulation</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Run the frontend: <br/>
-<img src="https://live.staticflickr.com/65535/54835240823_86d29bd529_b.jpg" height="80%" width="80%"/>
+<b>To create the csv file (can change kml file to any to any of those in the materials folder, and name/location of output csv file): </b><br/>
+<img src="https://www.flickr.com/photos/203696569@N08/54837780044/in/dateposted-friend/" height="80%" width="80%"/>
 <br />
 <br />
-Run the backend: <br/>
-<img src="https://live.staticflickr.com/65535/54835316725_aa903ebb48_b.jpg" height="80%" width="80%"/>
+<b>Create storm plots (make sure name of csv file created before is the same, and can change name/location of storm plot image)</b>: <br/>
+<img src="https://www.flickr.com/photos/203696569@N08/54837804293/in/dateposted-friend/" height="80%" width="80%"/>
 <br />
 <br />
-Landing screen where user can login or register with a new account:  <br/>
-<img src="https://live.staticflickr.com/65535/54835245928_5b265ed861.jpg" height="80%" width="80%"/>
+<b>Example storm plot image for a012020.kml file: <br/>
+<img src="https://www.flickr.com/photos/203696569@N08/54837560001/in/dateposted-friend/" height="80%" width="80%"/>
 <br />
-<br />Main dashboard: <br/>
-<img src="https://live.staticflickr.com/65535/54834202572_b1830fab10_b.jpg" height="80%" width="80%"/>
+<br />
 
 <!--
  ```diff
