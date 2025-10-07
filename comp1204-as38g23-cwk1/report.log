@@ -1,0 +1,595 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.28)  8 MAR 2024 00:21
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen151
+\captionmargin=\dimen152
+\caption@leftmargin=\dimen153
+\caption@rightmargin=\dimen154
+\caption@width=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
+) (./output.aux)
+\openout1 = `output.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen159
+\scratchbox=\box52
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen160
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # The following line assigns, all UTC timestamps for each hurricane report in the input kml[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Firstly the grep command searches for patterns in the input kml file that begin with the[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 tag <name>, followed by a UTC timestamp, and ending with the tag </name>, and the -o option[] 
+ []
+
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 is used to make sure that we find lines that contain exactly the information just mentioned[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 We can extract the UTC timestamp from each of these lines. The check for this actual timestamp[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 between the two tags is achieved through the use of regular expressions, where we first search[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 for zero or more occurrences for numbers in the range 0 to 9 (which acts as the time of the[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 timestamp), then for the string 'UTC', followed by zero or more occurrences for letters from[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 Therefore, all possible patterns produced from this grep command will be every line in the[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Secondly, all these patterns are piped into the sed command, that removes all <name>, and[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 </name> tags from every line, and replaces it with nothing, so we're now left with just the[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 UTC timestamp. To remove </name> tags we use '#' as the delimiter to remove ambiguity with the[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Finally, all the UTC timestamps are piped into the awk command, where a comma is added after[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Firstly the first grep command uses the -A option to retrieve the next line after every line[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 in the input kml file that contains the string 'Storm Location', as well as every line that[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 report are contained in every line after this string. Each occurrence of these pairs of lines[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 are piped into the second grep command, which filters out all instances of the string '--',[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Following this the pairs of lines (where one line consists of the string 'Storm Location' and[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 the other is the line containing the latitude and longitude values of that specific hurricane[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 'Storm Location' are removed by checking if the line number is first even, and these are the[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 lines that contain the location information of each storm (latitude and longitude values).[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 The next gsub filter is used to remove any whitespaces which are replaced with nothing, and[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 following this a comma is added to the latitude and longitude values extracted, in order to[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Finally all these latitude and longitude pairs of values are piped into the sed command,[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 which is used to remove any redundant tags before and after the values, and these lines are[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 piped into the next sed command which removes any whitespace between the value and the unit.[] 
+ []
+
+[2]
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # The logic to this line of code is similar to the previous one where we obtained the latitude[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 and longitude values for each hurricane report. This time each line containing the minimum sea[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 level pressure is after a line in the kml file containing the string 'Min Sea Level Pressure'.[] 
+ []
+
+
+Overfull \hbox (34.24059pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 We again use the grep command to get these pairs of lines, and these pairs are piped to a second[] 
+ []
+
+
+Overfull \hbox (39.49054pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Like before, now we pipe the pairs of lines (one containing the string 'Min Sea Level Pressure'[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 with some kml tags, and one containing the minimum sea level pressure measured in various units[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 along with some kml tags) to the awk command to remove the line from each pair containing the[] 
+ []
+
+
+Overfull \hbox (49.99045pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 Again this is achieved through the use of a modulo check to see if the current line number is even,[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 as all lines containing the minimum sea level pressure are even. We also remove any whitespaces[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 which are replaced with nothing (used to get rid of leading whitespaces), and append a comma at[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Now we're just left with the line containing the minimum sea level pressure, but this line[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 contains this value in the unit Hg as well as mb, but we only want it in millibars. These lines[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 also contain redundant kml tags that we can remove. Hence, all these lines are piped to a first[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 sed command that removes in the first check, the kml tags <tr><td> which are always before the[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 relevant data value of the minimum sea level pressure that we need (measured in mb), and the[] 
+ []
+
+
+Overfull \hbox (34.24059pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 second check removes all the redundant information following the 'mb' part each line, where this[] 
+ []
+
+
+Overfull \hbox (39.49054pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 information includes the minimum sea level pressure measured in the other unit in Hg, followed by[] 
+ []
+
+
+Overfull \hbox (34.24059pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 some kml tags. The check for these decimal values measured in Hg is completed through the use of[] 
+ []
+
+
+Overfull \hbox (39.49054pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 regular expressions, where we first check for zero or more occurrences of numbers between 0 to 9,[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 followed by a decimal point, and a further zero or more occurrences of numbers from 0 to 9.[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 This is followed by the remaining piece of text in the line (containing the string 'inHg' and[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 further kml tags), and all of this is removed and replaced with nothing as we don't need any of[] 
+ []
+
+
+Overfull \hbox (39.49054pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 this information. Therefore, now we're just left with the value of the minimum sea level pressure[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 measured in mb, but since we removed all whitespaces in all lines containing the minimum sea[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Because of this we pipe all these lines to another sed command that adds a space between[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 hurricane report, from the input kml file to the variable maximumIntensityField. The values[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # The logic to this line of code is similar to the previous two fields, where we first use[] 
+ []
+
+[3]
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 'Maxium Intensity' (using the -A option), as well as every line that contains this string.[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 contained in every line after this string, and each occurrence of these pairs of lines are[] 
+ []
+
+
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 piped into the second grep command, which filters out all instances of the string '--', to[] 
+ []
+
+
+Overfull \hbox (13.24077pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # The pairs of lines (where one line consists of the string 'Maxium Intensity' and the other[] 
+ []
+
+
+Overfull \hbox (39.49054pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 specific hurricane report) are piped into the following awk command. The awk command is used in a[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 minSeaLevelPressureField, where lines containing the string 'Maxium Intensity' are removed, and[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 any whitespaces in the remaining lines containing values for the maximum intensity values are[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Again these lines, now containing the maximum intensity values of various hurricane report,[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 but measured in different units (knots, kph, and mph) as well as having additional kml tags[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 completed, we're now just left with the value of the maximum intensity measured in knots, but[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 since we removed all whitespaces in all lines containing the maximum intensity, there will be[] 
+ []
+
+
+Overfull \hbox (28.99063pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 # Because of this we pipe all these lines to another sed command like before, that adds a space[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 latitudeAndLongitudeField, minSeaLevelPressureField, and maximumIntensityField side be side[] 
+ []
+
+
+Overfull \hbox (7.99081pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 without any delimiter. The '<()' syntax is used to treat the output of the echo commands as[] 
+ []
+
+
+Overfull \hbox (23.74068pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 if they were files, and to ensure the fields are combined correctly. This produces the correct[] 
+ []
+
+
+Overfull \hbox (18.49072pt too wide) in paragraph at lines 205--205
+[]\OT1/cmtt/m/n/10 CSV format with seperate columns for each field, and this is appended to the output csv file.[] 
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+
+ []
+
+<storm_plot_al102020.png, id=20, 481.8pt x 361.35pt>
+File: storm_plot_al102020.png Graphic file (type png)
+<use storm_plot_al102020.png>
+Package pdftex.def Info: storm_plot_al102020.png  used on input line 226.
+(pdftex.def)             Requested size: 375.80544pt x 281.8629pt.
+<storm_plot_al112020.png, id=21, 481.8pt x 361.35pt>
+File: storm_plot_al112020.png Graphic file (type png)
+<use storm_plot_al112020.png>
+Package pdftex.def Info: storm_plot_al112020.png  used on input line 233.
+(pdftex.def)             Requested size: 375.80544pt x 281.8629pt.
+<storm_plot_al212020.png, id=22, 481.8pt x 361.35pt>
+File: storm_plot_al212020.png Graphic file (type png)
+<use storm_plot_al212020.png>
+Package pdftex.def Info: storm_plot_al212020.png  used on input line 240.
+(pdftex.def)             Requested size: 375.80544pt x 281.8629pt.
+[5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./storm_plot_al102020.png>] [6 <./storm_plot_al112020.png> <./storm_plot_al212020.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+
+ []
+
+
+Overfull \hbox (1.07799pt too wide) in paragraph at lines 250--251
+[]\OT1/cmr/m/n/10 I then re-peated this pro-cess for the sec-ond block of code, in re-mov-ing the code be-tween the '======='
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+
+ []
+
+[8] (./output.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3232 strings out of 475237
+ 56493 string characters out of 5764570
+ 1933244 words of memory out of 5000000
+ 24493 multiletter control sequences out of 15000+600000
+ 562519 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,650b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on output.pdf (8 pages, 133624 bytes).
+PDF statistics:
+ 68 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

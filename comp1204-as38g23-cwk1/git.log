@@ -1,0 +1,324 @@
+commit 4f925322ea6876806bae5a005c5b0db1ed175d07
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Fri Mar 8 00:46:41 2024 +0000
+
+    Created tar archive of all submission files.
+    These include: create_csv.sh, report.tex, report.pdf, report.log, and
+    git.log.
+
+commit 50c848a13449e0ca21350b1dcc3456917b85cac1
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Fri Mar 8 00:39:14 2024 +0000
+
+    Added new files, to be included within final submission.
+
+commit 67b81631b6a125df0213aa2ea7640c9794e0cab5
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Fri Mar 8 00:22:00 2024 +0000
+
+    Made final changes to LaTeX report, involving formatting of file.
+
+commit c4eec1c2280dce5ef19aeccbab4bc0091732493e
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Thu Mar 7 21:07:48 2024 +0000
+
+    Added content under the section 'Git Usage' to LaTeX report.
+
+commit bd16ef03db2af31647b9e03a32bdf15fc48197f2
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Thu Mar 7 19:15:15 2024 +0000
+
+    Added Storm Plot images to 'Storm Plots' section in LaTeX report.
+
+commit c395d967d5d4aab4f4b6265586d2e9d1098866e1
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Thu Mar 7 18:47:55 2024 +0000
+
+    Added bash script to LaTeX report, as well as overall textual summary.
+
+commit 169b116a2e5303d9f870296e4c91d4b0620b3b7e
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Wed Mar 6 16:08:34 2024 +0000
+
+    Added introduction section to LaTeX report.
+
+commit d4c738c0d21a557fffa025041159cd8e8f4a2a81
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Wed Mar 6 13:52:15 2024 +0000
+
+    Created new LaTeX report file (report.tex).
+    Contains basic template of the report, including the title, and the
+    sections to be included.
+
+commit 495274b91d3d6f49d6c34a655644be26389eb259
+Merge: aca68c2 2a4af3c
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:25:49 2024 +0000
+
+    Merge branch 'python-addon'
+    
+    Merged branches main and python-addon, to resolve conflicts.
+
+commit aca68c2b4c48df17181d1e2755ba35d0d3492b97
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:24:35 2024 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit 2a4af3cc33fdd7c109b894fa512dc36a211b0788
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:24:35 2024 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit 9f539b265f2688520e3c5a4a1ca300be346b9174
+Merge: bfc8915 581231c
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:24:34 2024 +0000
+
+    Cleaning old scripts
+
+commit 0e553b39ec0269c5574977bb3cc4024f1865a3ad
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:24:34 2024 +0000
+
+    Cleaning old scripts
+
+commit bfc891560556a35e10deafdf65ff3555c367056e
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:12:19 2024 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit 581231c7bb0253e9589e5feaa228843555865b78
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:12:19 2024 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit fe4f1d358e886101216dd248c1d255dbd8378b4f
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:12:19 2024 +0000
+
+    Cleaning old scripts
+
+commit 83ad1f16904036766cdf1eeac59abd310568dda4
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:12:18 2024 +0000
+
+    Cleaning old scripts
+
+commit f2a0c6641610c3e4e8233984fc78fc08b576ddd4
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:09:13 2024 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit d6e98daf4f0a899da4b60c21157cbe8040079e92
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:09:12 2024 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit a2279c870c0c6cf3e4dc13c774faa23bc633b59a
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:09:12 2024 +0000
+
+    Cleaning old scripts
+
+commit e9ce8e8bf135fe42529b2b41793b4e1850a753c2
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 12:09:12 2024 +0000
+
+    Cleaning old scripts
+
+commit 4757489772213aec08f14ee634ce6649999d8e86
+Merge: 3cf6425 53a2f48
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:53:14 2024 +0000
+
+    Merge branch 'python-addon'
+    
+    Resolved conflicts by removing conflicting code from python-plot-script.
+    After this was completed the main and python-addon branches were merged.#
+
+commit 3cf6425abd1cfb6f650328530930b8df1009c999
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:43:48 2024 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit 53a2f48eb62d14d5f69f8c5ec0009327e8126cfe
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:43:47 2024 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit 3fb6768a6b6f852493527390a5888596b38f9733
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:43:47 2024 +0000
+
+    Cleaning old scripts
+
+commit c87e0012d0338de108dc976f4c0566c5e8a3274c
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:43:47 2024 +0000
+
+    Cleaning old scripts
+
+commit 7d0e089f1ccdfc8bb81aaf9b9b8e3ce8ab0ccd79
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:32:05 2024 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit 4f19ec18b53483469de24cb780a23b55ad2ed06d
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Tue Mar 5 11:32:05 2024 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit bd230d2368d7c741b055ae5b7c165160ab045523
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Mon Mar 4 12:39:35 2024 +0000
+
+    Changed code that extracts latitude and longitude from input kml file.
+    Added space between latitude/longitude value and units N/S/E/W.
+
+commit 7a3655116f1ea5a5636eb2328f2928faf7e93033
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Mon Mar 4 12:25:11 2024 +0000
+
+    Changed code that extracts maximum intensity of storm.
+    Added space between value of maximum intensity, and the unit of knots.
+
+commit 00cd53986d4ae6956f58dacbcd2aa78d0d994cda
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 20:54:06 2024 +0000
+
+    Modified code that extracts information about the maximum intensity.
+    Removed redundant information from each line containing these values,
+    including the maximum intensity for each hurricane report measured in
+    mph and kph, as well as a large number of xml tags.
+
+commit 5fc51e68fd5eeecf3f93a88e03043a4482a51071
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 20:49:58 2024 +0000
+
+    Added code to extract information about the maximum intensity.
+    This was done for each hurricane report, where the lines containing this
+    information (still containing redundant data) were appended to the
+    output csv file.
+
+commit 6fff5e81eca851807590f0864f7f7d67505f2afa
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 20:36:52 2024 +0000
+
+    Changed code that was used to extract the Minimum Sea Level Pressure.
+    Added a space between the value of this measured in millibars, and the
+    unit (mb).
+
+commit c40567e0ab69fae027dd9f8441d9993f607920ed
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 20:05:07 2024 +0000
+
+    Modified code to extract Minimum Sea Level Pressure from xml file input.
+    Removed redundant xml tags, and data about the minimum sea level
+    pressure in a different unit (Hg). Data about the minimum sea level
+    pressure measured in millibars is appended to the output csv file for
+    each hurricane reported.
+
+commit 4e013dc2b3d4ec1cc43de6cf4111b84417f4e288
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 19:55:05 2024 +0000
+
+    Added code to extract Minimum Sea Level Pressure from input xml file.
+    Lines appended to the output csv file containing this information still
+    consist of redundant data, such as xml tags and the minimum sea level
+    pressure measured in Hg.
+
+commit 2eb1b885a6f999ee9327308cd51f52ec8d6aabb8
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 17:23:49 2024 +0000
+
+    Formatted columns containing the location information of each storm.
+    This ensured that the timestamp, latitude, and longitude columns were
+    all aligned with one another.
+
+commit 919f2f05b9ec2726ac586b3ba5c053e8bbdfef9f
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 16:10:07 2024 +0000
+
+    Removed leading whitespaces from code extracting storm location data.#
+
+commit 847c66f1db46b55c3430f6963945141a69e75754
+Merge: 62fd8a1 42697cc
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 14:20:59 2024 +0000
+
+    Merge remote-tracking branch 'origin/main'
+    
+    Modified code to extract storm location.
+    Removed lines before the value depicting the latitude and longitude of
+    the storm, which includes the string 'Storm Location'.
+
+commit 62fd8a17f637f4c833900ff95636ead3fc2fecb2
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 14:13:46 2024 +0000
+
+    Modified code that extracts location of storm.
+    Lines before the latitude and longitude values were removed,
+    specifically these lines contain the string 'Storm Location'.
+
+commit ca8c77220bd907d50b56e2bea2245ae46227af9e
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 14:01:58 2024 +0000
+
+    Changed code that extracts location of storm.
+    Remove lines containing '--,', as well as redundant xml tags before and
+    after the values depicting the storm's location (latitude and
+    longitude).#
+
+commit 42697cc41e4acf690a5559f53816d5b4f74d4587
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 14:01:58 2024 +0000
+
+    Changed code that extracts location of storm.
+    Remove lines containing '--,', as well as redundant xml tags before and
+    after the values depicting the storm's location (latitude and
+    longitude).#
+
+commit c68484e422980df3668747077d04a5b3292c722b
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 12:20:38 2024 +0000
+
+    Added code to append lines containing the storm location.
+    This is appended to the end of the output csv file.#
+
+commit 3e39c2b52b4b26fbc583755a075aa04ae4d9a655
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 11:56:50 2024 +0000
+
+    Modified code that filters out UTC timestamps.
+    Leading whitespaces were removed from each timestamp, and commas were
+    added after every timestamp to lead to the next field.
+
+commit 065f85bb762ae9f54fd14691da12cb833c8d5488
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 11:42:43 2024 +0000
+
+    Added code to filter out UTC timestamps from input xml file
+
+commit 4922718927484eb36330512d85ae1e4d76ffff49
+Author: Arjun Srinivasan <as38g23@soton.ac.uk>
+Date:   Sun Mar 3 01:28:55 2024 +0000
+
+    Added create_csv.sh file to take in two arguments, one of the input kml
+    file, and one as the csv file that is output to. Header line containing
+    the fields to be output, is written to the output csv file.
+
+commit 2bcf72af339e4d78a90a65395ed7bb7f268fce10
+Author: as38g23 <as38g23@soton.ac.uk>
+Date:   Sat Mar 2 17:35:38 2024 +0000
+
+    Initial commit
